@@ -16,7 +16,7 @@ February 2021
 
 ###### Technologies:
 
-HTML, CSS, PHP
+HTML, CSS, PHP, MySQLi
 
 ![Class Components Showcase](./images/AssignmentDone-2.png)
 
