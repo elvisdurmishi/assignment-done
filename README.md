@@ -12,7 +12,7 @@ Finished
 
 ###### Implementation time:
 
-November 2020
+February 2021
 
 ###### Technologies:
 
