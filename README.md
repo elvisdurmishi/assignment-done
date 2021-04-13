@@ -1,6 +1,6 @@
 # Assignment Done
 
-![Class Cards Showcase](./images/AssignmentDone#1.png)
+![Class Cards Showcase](./images/AssignmentDone-1.png)
 
 ##### Description:
 
@@ -18,9 +18,9 @@ November 2020
 
 HTML, CSS, PHP
 
-![Class Components Showcase](./images/AssignmentDone#2.png)
+![Class Components Showcase](./images/AssignmentDone-2.png)
 
-![Assignment Grading Showcase](./images/AssignmentDone#3.png)
+![Assignment Grading Showcase](./images/AssignmentDone-3.png)
 
 ##### Contact:
 
