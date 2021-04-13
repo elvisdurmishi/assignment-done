@@ -1,6 +1,6 @@
 # Assignment Done
 
-![Class Cards Showcase](./images/AssignmentDone #1.png)
+![Class Cards Showcase](https://github.com/elvisdurmishi/assignment-done/blob/main/images/AssignmentDone#1.png?raw=true)
 
 ##### Description:
 
@@ -18,9 +18,9 @@ November 2020
 
 HTML, CSS, PHP
 
-![Class Components Showcase](./images/AssignmentDone #2.png)
+![Class Components Showcase](https://github.com/elvisdurmishi/assignment-done/blob/main/images/AssignmentDone#2.png?raw=true)
 
-![Assignment Grading Showcase](./images/AssignmentDone#3.png)
+![Assignment Grading Showcase](https://github.com/elvisdurmishi/assignment-done/blob/main/images/AssignmentDone#3.png?raw=true)
 
 ##### Contact:
 
