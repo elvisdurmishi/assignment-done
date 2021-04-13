@@ -1,6 +1,6 @@
 # Assignment Done
 
-![Class Cards Showcase](./images/AssignmentDone#1.png)
+![Class Cards Showcase](elvisdurmishi.github.com/assignment-done/images/AssignmentDone#2.png)
 
 ##### Description:
 
